@@ -7,7 +7,7 @@
 #include <string>
 using namespace std;
 
-// ================= PASSENGER CLASS =================
+// ================= PASSENGER CLASS ================
 
 class Passenger {
 public:
