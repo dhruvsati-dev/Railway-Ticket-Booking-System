@@ -1,6 +1,6 @@
 /*
     RAILWAY TICKET BOOKING SYSTEM
-    Team: TECH CODER
+    Team:TECH CODER
 */
 
 #include <iostream>
